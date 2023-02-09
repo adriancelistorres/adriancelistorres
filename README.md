@@ -1,4 +1,13 @@
-### Hi, I'm Adrian 💻💻🌐🌐🫡🫡👋👋
+### <h1>Hi, I'm Adrian 💻💻🌐🌐🫡🫡👋👋</h1>
+
+I am a growing software developer, I always focus on learning more and I hope to grow a very beautiful community, you can check my repositories and help me if necessary 🌹🌹✨✨😁😁😁😁
+
+![Screenshot_3](https://user-images.githubusercontent.com/106008224/217951791-55116f9d-00ee-4cb0-b8e8-0d0ed801d548.png)
+
+<div align="center">
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriancelistorres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <p align="center">
 	<a href="https://twitter.com/ancel_dev18"><img style="width:40px;height: 40px;" src="https://www.jcdiez.com/wp-content/uploads/2015/09/icono-twitter.png" alt="Twitter"></a>
@@ -9,8 +18,15 @@
 	<a href="/"><img style="width:40px;height: 40px;" src="https://scaleupyourpractice.com/wp-content/uploads/2019/05/web-icon.png" alt="web"></a>
 </p>
 
-![Screenshot_3](https://user-images.githubusercontent.com/106008224/217951791-55116f9d-00ee-4cb0-b8e8-0d0ed801d548.png)
 
+
+
+
+
+
+
+
+<!--
 
 ```js
 const peru = {
@@ -20,12 +36,6 @@ const peru = {
   architecture: ["microservices", "event-driven", "clean architecture"],
 ```
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriancelistorres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
 **adriancelistorres/adriancelistorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   techCommunities: {
                         coorganizer: "AfroPython",
