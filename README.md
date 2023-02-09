@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![dream_0gvv7cyz6kb](https://user-images.githubusercontent.com/106008224/217943897-8b586eb3-faf6-482e-ae3f-cd169e297975.jpg)
+![Screenshot_2](https://user-images.githubusercontent.com/106008224/217949452-1ac4cb66-8995-41c0-8882-587c8fd07a16.png)
 
 <!--
 **adriancelistorres/adriancelistorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
