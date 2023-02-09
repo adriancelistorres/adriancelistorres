@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Screenshot_2](https://user-images.githubusercontent.com/106008224/217949452-1ac4cb66-8995-41c0-8882-587c8fd07a16.png)
-
+![Screenshot_3](https://user-images.githubusercontent.com/106008224/217951791-55116f9d-00ee-4cb0-b8e8-0d0ed801d548.png)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriancelistorres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
