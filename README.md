@@ -2,6 +2,9 @@
 
 ![Screenshot_2](https://user-images.githubusercontent.com/106008224/217949452-1ac4cb66-8995-41c0-8882-587c8fd07a16.png)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriancelistorres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **adriancelistorres/adriancelistorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
